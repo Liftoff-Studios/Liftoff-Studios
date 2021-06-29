@@ -6,9 +6,12 @@ Welcome to my profile. I am a novice programmer aiming to become a front-end or 
 
 Checklist to complete my aim:
 * [x] Learn Basic HTML
-* [ ] Learn Complex Javascript 
+* [x] Learn Complex Javascript 
 * [ ] Learn some CSS Libraries
 * [ ] Learn some server-side language
 
 https://www.freecodecamp.org/certification/html-programmer/responsive-web-design 
 --My Certification for Basic HTML CSS Mobile Responsive Design
+
+https://www.freecodecamp.org/certification/html-programmer/javascript-algorithms-and-data-structures
+--My Certification for Javascript Algorithms
