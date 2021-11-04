@@ -28,4 +28,4 @@ https://www.freecodecamp.org/certification/html-programmer/javascript-algorithms
 --My Certification for Javascript Algorithms
 
 ## Techstack
-
+![React](https://img.shields.io/badge/-React-blue?logo=react)
