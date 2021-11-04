@@ -11,10 +11,10 @@ Welcome to my profile. I am a novice programmer aiming to become a front-end or 
 - Repl.it
 
 
-# My Stats
+# My Stats ↗️
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Liftoff-KA)
 
-# Aim
+# Aim 📋
 Checklist to complete my aim:
 * [x] Learn Basic HTML
 * [x] Learn Complex Javascript 
