@@ -1,7 +1,8 @@
 ![Profile Hero Image](https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/10/HERO-ART-microsoft_azure_1920x1000_nologo.jpg)
 # Liftoff Studios
 
-Welcome to my profile. I am a novice programmer aiming to become a front-end or full-stack developer
+Welcome to my profile. I am a fullstack developer<br>
+I don't do web development as a career since I am only 14 😆
 
 ## Places to find me 🗺️
 
