@@ -48,3 +48,11 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![Replit](https://img.shields.io/badge/-Replit-grey?logo=replit)
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google) 
 
+## Working on Learning
+1. MongoDB
+2. Mongoose
+3. NPM
+4. Git
+5. Heroku
+6. AWS
+7. Golang
