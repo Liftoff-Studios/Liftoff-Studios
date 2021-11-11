@@ -12,7 +12,9 @@ I don't do web development as a career since I am only 14 😆
 
 
 ## My Stats ↗️
-![Github stats](https://github-readme-stats.vercel.app/api?username=Liftoff-KA)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Liftoff-KA&theme=onedark)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liftoff-KA&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Aim 📋
 Checklist to complete my aim:
@@ -57,3 +59,6 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 5. Heroku
 6. AWS
 7. Golang
+<br><br>
+
+<center> <i><h3>Open to collaborating on anything !</h3></i></center>
