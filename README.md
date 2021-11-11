@@ -1,4 +1,3 @@
-![Profile Hero Image](https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/10/HERO-ART-microsoft_azure_1920x1000_nologo.jpg)
 # Liftoff Studios
 
 Welcome to my profile. I am a fullstack developer<br>
@@ -47,6 +46,7 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![python](https://img.shields.io/badge/-Python-grey?logo=python)
 ![Github](https://img.shields.io/badge/-Github-grey?logo=github)
 ![Replit](https://img.shields.io/badge/-Replit-grey?logo=replit)
+![Codepen](https://img.shields.io/badge/-CodePen-grey?logo=codepen) 
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google) 
 
 ## Working on Learning
