@@ -50,15 +50,15 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![Replit](https://img.shields.io/badge/-Replit-grey?logo=replit)
 ![Codepen](https://img.shields.io/badge/-CodePen-grey?logo=codepen) 
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb) 
+![Mongoose](https://img.shields.io/badge/-Mongoose-grey?logo=mongoose) 
 
 ## Working on Learning
-1. MongoDB
-2. Mongoose
-3. NPM
-4. Git
-5. Heroku
-6. AWS
-7. Golang
+1. NPM
+2. Git
+3. Heroku
+4. AWS
+5. Golang (Working on it!)
 <br><br>
 
 <center> <i><h3>Open to collaborating on anything !</h3></i></center>
