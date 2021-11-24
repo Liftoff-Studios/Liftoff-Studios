@@ -54,11 +54,11 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?logo=mongoose) 
 
 ## Working on Learning
-1. NPM
-2. Git
-3. Heroku
-4. AWS
-5. Golang (Working on it!)
+1. Rust (WIP)
+2. NPM
+3. Git
+4. Heroku
+5. AWS
 <br><br>
 
 <center> <i><h3>Open to collaborating on anything !</h3></i></center>
