@@ -21,7 +21,7 @@ Checklist to complete my aim:
 * [x] Learn Basic HTML
 * [x] Learn Complex Javascript 
 * [x] Learn some CSS Libraries
-* [ ] Learn some server-side language
+* [x] Learn some server-side language
 
 https://www.freecodecamp.org/certification/html-programmer/responsive-web-design 
 --My Certification for Basic HTML CSS Mobile Responsive Design
