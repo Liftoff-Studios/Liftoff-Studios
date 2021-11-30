@@ -52,6 +52,14 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb) 
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?logo=mongoose) 
+<br><br>
+In case you don't know what these logos mean here is a proper list:-
+1. Frontend - HTML, CSS, JavaScript, ReactJS, jQuery, Bootstrap, SASS, p5.js
+2. Platforms - Github, Replit, Codepen, Chrome DevTools
+3. Backend - Node.js, Express
+4. Databases - MongoDB, Mongoose (to use the data)
+5. General Purpose Languages - Python
+6. Embedded and System Languages - Rust (WIP)
 
 ## Working on Learning
 1. Rust (WIP)
