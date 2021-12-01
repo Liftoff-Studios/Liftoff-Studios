@@ -12,8 +12,8 @@ I don't do web development as a career since I am only 14 😆
 
 
 ## My Stats ↗️
-![Github stats](https://github-readme-stats.vercel.app/api?username=Liftoff-KA&theme=onedark)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liftoff-KA&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Liftoff-Studios&theme=onedark)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liftoff-Studios&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Aim 📋
