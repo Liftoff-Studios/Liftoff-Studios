@@ -38,6 +38,7 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![html](https://img.shields.io/badge/-HTML5-grey?logo=html5)
 ![css](https://img.shields.io/badge/-CSS3-grey?logo=css3)
 ![javascript](https://img.shields.io/badge/-Javascript-grey?logo=javascript)
+![Rust](https://img.shields.io/badge/-Rust-grey?logo=rust)
 ![React](https://img.shields.io/badge/-React-grey?logo=react)
 ![Node.js](https://img.shields.io/badge/-NodeJS-grey?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
@@ -59,14 +60,13 @@ In case you don't know what these logos mean here is a proper list:-
 3. Backend - Node.js, Express
 4. Databases - MongoDB, Mongoose (to use the data)
 5. General Purpose Languages - Python
-6. Embedded and System Languages - Rust (WIP)
+6. Embedded and System Languages - Rust 
 
 ## Working on Learning
-1. Rust (WIP)
-2. NPM
-3. Git
-4. Heroku
-5. AWS
+1. NPM
+2. Git
+3. Heroku
+4. AWS
 <br><br>
 
 <center> <i><h3>Open to collaborating on anything !</h3></i></center>
