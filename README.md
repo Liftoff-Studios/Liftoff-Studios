@@ -57,7 +57,7 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 In case you don't know what these logos mean here is a proper list:-
 1. Frontend - HTML, CSS, JavaScript, ReactJS, jQuery, Bootstrap, SASS, p5.js
 2. Platforms - Github, Replit, Codepen, Chrome DevTools
-3. Backend - Node.js, Express
+3. Backend - Node.js, Express, Rust
 4. Databases - MongoDB, Mongoose (to use the data)
 5. General Purpose Languages - Python
 6. Embedded and System Languages - Rust 
