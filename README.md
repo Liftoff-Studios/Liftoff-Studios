@@ -47,8 +47,10 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![sass](https://img.shields.io/badge/-SASS-grey?logo=sass)
 ![p5.js](https://img.shields.io/badge/-P5.js-grey?logo=p5.js)
 ![python](https://img.shields.io/badge/-Python-grey?logo=python)
+![git](https://img.shields.io/badge/-Git-grey?logo=git)
 ![Github](https://img.shields.io/badge/-Github-grey?logo=github)
 ![Replit](https://img.shields.io/badge/-Replit-grey?logo=replit)
+![Atom](https://img.shields.io/badge/-Atom-grey?logo=atom)
 ![Codepen](https://img.shields.io/badge/-CodePen-grey?logo=codepen) 
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb) 
@@ -56,17 +58,17 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 <br><br>
 In case you don't know what these logos mean here is a proper list:-
 1. Frontend - HTML, CSS, JavaScript, ReactJS, jQuery, Bootstrap, SASS, p5.js
-2. Platforms - Github, Replit, Codepen, Chrome DevTools
+2. Platforms - Github, Replit, Atom, Codepen, Chrome DevTools
 3. Backend - Node.js, Express, Rust
 4. Databases - MongoDB, Mongoose (to use the data)
 5. General Purpose Languages - Python
 6. Embedded and System Languages - Rust 
+7. Version Control Software - Git
 
 ## Working on Learning
 1. NPM
-2. Git
-3. Heroku
-4. AWS
+2. Heroku
+3. AWS
 <br><br>
 
 <center> <i><h3>Open to collaborating on anything !</h3></i></center>
