@@ -5,10 +5,10 @@ I don't do web development as a career since I am only 14 😆
 
 ## Places to find me 🗺️
 
-- Khan Academy
-- Github
-- Dev.to
-- Repl.it
+- [Khan Academy](https://www.khanacademy.org/profile/abhijitbiswas07)
+- [Github](https://github.com/Liftoff-Studios)
+- [Dev.to](https://dev.to/liftoffstudios)
+- [Repl.it](https://replit.com/@Liftoff-KA)
 
 
 ## My Stats ↗️
