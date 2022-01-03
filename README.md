@@ -1,5 +1,7 @@
 # Liftoff Studios
-
+<br><br>
+![Followers](https://img.shields.io/github/followers/Liftoff-Studios?style=for-the-badge)
+<br><br>
 Welcome to my profile. I am a fullstack developer<br>
 I don't do web development as a career since I am only 14 😆
 
