@@ -52,6 +52,7 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![Github](https://img.shields.io/badge/-Github-grey?logo=github&style=for-the-badge)
 ![Replit](https://img.shields.io/badge/-Replit-grey?logo=replit&style=for-the-badge)
 ![Atom](https://img.shields.io/badge/-Atom-grey?logo=atom&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-grey?logo=visualstudiocode&style=for-the-badge)
 ![Codepen](https://img.shields.io/badge/-CodePen-grey?logo=codepen&style=for-the-badge) 
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google&style=for-the-badge) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb&style=for-the-badge) 
@@ -59,7 +60,7 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 <br><br>
 In case you don't know what these logos mean here is a proper list:-
 1. Frontend - HTML, CSS, JavaScript, ReactJS, jQuery, Bootstrap, SASS, p5.js
-2. Platforms - Github, Replit, Atom, Codepen, Chrome DevTools
+2. Platforms - Github, Replit, Atom, VSCode, Codepen, Chrome DevTools
 3. Backend - Node.js, Express, Rust
 4. Databases - MongoDB, Mongoose (to use the data)
 5. General Purpose Languages - Python
