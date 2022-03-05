@@ -44,7 +44,7 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![Node.js](https://img.shields.io/badge/-NodeJS-grey?logo=node.js&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-grey?logo=express&style=for-the-badge)
 ![jquery](https://img.shields.io/badge/-jQuery-grey?logo=jQuery&style=for-the-badge)
-![bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-Tailwind-grey?logo=tailwindcss&style=for-the-badge)
 ![sass](https://img.shields.io/badge/-SASS-grey?logo=sass&style=for-the-badge)
 ![p5.js](https://img.shields.io/badge/-P5.js-grey?logo=p5.js&style=for-the-badge)
 ![python](https://img.shields.io/badge/-Python-grey?logo=python&style=for-the-badge)
