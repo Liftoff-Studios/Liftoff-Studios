@@ -2,7 +2,7 @@
 
 ![Followers](https://img.shields.io/github/followers/Liftoff-Studios?style=for-the-badge)
 <br><br>
-Welcome to my profile. I am a fullstack developer<br>
+Welcome to my profile. I am a human<br>
 
 ## Places to find me 🗺️
 
