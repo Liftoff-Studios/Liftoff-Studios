@@ -1,4 +1,3 @@
-![Header](https://github.com/Liftoff-Studios/Liftoff-Studios/blob/main/github-header-image.png)
 
 ![Followers](https://img.shields.io/github/followers/Liftoff-Studios?style=for-the-badge)
 <br><br>
