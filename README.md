@@ -74,6 +74,6 @@ In case you don't know what these logos mean here is a proper list:-
 <br><br>
 
 ## Projects
-- [Dolphin Chat (A chat application)](https://dolphin-user-chat.liftoff-ka.repl.co/)
+- [Dolphin Chat (A chat application)](https://dolphinchat-client--liftoff-ka.repl.co/)
 
 <center> <i><h3>Open to collaborating on anything !</h3></i></center>
