@@ -57,12 +57,13 @@ https://www.freecodecamp.org/certification/html-programmer/front-end-development
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb&style=for-the-badge) 
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?logo=mongoose&style=for-the-badge) 
 ![Docker](https://img.shields.io/badge/-Docker-grey?logo=docker&style=for-the-badge) 
+![Docker](https://img.shields.io/badge/-VueJS-grey?logo=vue.js&style=for-the-badge) 
 <br><br>
 In case you don't know what these logos mean here is a proper list:-
-1. Frontend - HTML, CSS, JavaScript, ReactJS, jQuery, TailwindCSS, SASS, p5.js
+1. Frontend - HTML, CSS, JavaScript, VueJS, ReactJS, jQuery, TailwindCSS, SASS, p5.js
 2. Platforms - Docker, Github, Replit, Atom, VSCode, Codepen, Chrome DevTools
 3. Backend - Node.js, Express, Rust
-4. Databases - MongoDB, Mongoose (to use the data)
+4. Databases - MongoDB, Mongoose
 5. General Purpose Languages - Python
 6. Embedded and System Languages - Rust 
 7. Version Control Software - Git
