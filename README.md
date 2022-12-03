@@ -69,9 +69,9 @@ In case you don't know what these logos mean here is a proper list:-
 7. Version Control Software - Git
 
 ## Working on Learning
-1. NPM
-2. Heroku
-3. AWS
+1. Rust (more and more :) )
+2. React Native or Ionic idk
+3. Kernel and OS development
 <br><br>
 
 ## Projects
