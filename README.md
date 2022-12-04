@@ -1,10 +1,11 @@
+<div align="center">
+<img src='https://raw.githubusercontent.com/Liftoff-Studios/Liftoff-Studios/main/assets/github-header-image.png'>
+<br><br>
 
-![Header](https://raw.githubusercontent.com/Liftoff-Studios/Liftoff-Studios/main/assets/github-header-image.png)
-
-
-![Followers](https://img.shields.io/github/followers/Liftoff-Studios?style=for-the-badge)
+<img src='https://img.shields.io/github/followers/Liftoff-Studios?style=for-the-badge'>
 <br><br>
 Welcome to my profile. I am a human<br>
+</div>
 
 ## Places to find me 🗺️
 
@@ -81,4 +82,8 @@ In case you don't know what these logos mean here is a proper list:-
 - [Dolphin Chat (A chat application)](https://dolphinchat-client.liftoff-ka.repl.co/)
 - [Portfolio Website](https://abhijitbiswas.deta.dev)
 
-<center> <i><h3>Open to collaborating on anything !</h3></i></center>
+<div align="center">
+  
+<i><h2>Open to collaborating on anything !</h2></i>
+
+</div>
