@@ -80,7 +80,7 @@ In case you don't know what these logos mean here is a proper list:-
 
 ## Projects
 - [Dolphin Chat (A chat application)](https://dolphinchat-client.liftoff-ka.repl.co/)
-- [Portfolio Website](https://abhijitbiswas.me)
+- [Portfolio Website](https://abhijitbiswas.netlify.app/)
 - [Musikly (A Simple Music playing CLI)](https://github.com/Liftoff-Studios/Musikly-cli)
 - [Musikly (New Desktop Application)](https://github.com/Liftoff-Studios/Musikly)
 - [SMS Valet Application](https://github.com/Liftoff-Studios/SMS-Valet)
